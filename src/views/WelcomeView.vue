@@ -1,6 +1,6 @@
 <template>
   <v-main>
-    <v-container fluid class="fill-heights test">
+    <v-container class="fill-heights">
       <v-responsive class="align-centerfill-height mx-auto test2" max-width="900">
         <div class="py-4" />
 
