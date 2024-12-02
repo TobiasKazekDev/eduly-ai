@@ -1,0 +1,5 @@
+.v-application {
+    background-image: url('@/assets/bg.jpg') !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
